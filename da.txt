@@ -1,0 +1,52 @@
+FCC - Data Analysis
+
+Reference: https://www.youtube.com/watch?v=r-uOLxNrNk8
+
+8:43
+
+I. Overveiw
+
+1. What Is Data Analysis?
+2. Real Example Data Analyis With Python
+3. How To Use Jupyter Notebooks
+4. Intro To NumPy
+5. Intro To Pandas
+6. Data Cleaning
+7. Reading Data SQL, CSVs, APIs, etc.
+8. Python In Under 10 Minutes
+
+
+II. What Is Data Analysis?
+
+
+Data Analysis
+    A process of inspecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusion and supporting decision-making.
+
+Why Python For Data Analysis:
+    very simple and intuitive to learn.
+    "correct" language.
+    powerful libraries.
+    free and open source.
+    amazing community, docs and conferences.
+
+
+When To Choose R:
+    when R Studio is needed.
+    when dealong with advanced statistical methods.
+    when extreme performance is needed.
+
+    
+Data Analysis Process
+    Data Extraction
+        the process of retrieving raw data from diverse sources and converting it into a usuable format for analysis, storage, or integration (eg. SQL, scrapping, file formats, consulting APIs, buying data).
+    Data Cleansing
+        essential process of dinding and fixing inaccurate, incomplete, corrupted, or irrelevent datya in a dataset to improve its quality, consisgtency, and usability for abnalysis, business intelligence, and AI (Eg. missing values and empty data, data impotation, incorrect types).
+    Data Wrangling
+        the prcoess of cleaning, structuring, and teansforming raw data into a clean, high quality format that is ready for analysis and decision-making (eg. hierarchial data, handling categorical data, reshaping and transforming structured).
+    Analysis
+        proces of collecting, cleaning, transforming, and interpreting data to uncove useful information, idetify patterns, and support decision-making (eg. exploration, building statistical models, visualization and representations, correlation v. causation analysis).
+    Action
+        fact or process of doing something, typically to achieve an aim (eg. building machine learning models, feature engineering, moving ML into production, building ETL pipelines, etc.
+    
+
+
