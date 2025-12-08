@@ -2,9 +2,12 @@ FCC - Data Analysis
 
 Reference: https://www.youtube.com/watch?v=r-uOLxNrNk8
 
-8:43
+18:16
 
-I. Overveiw
+
+
+
+I. Overview
 
 1. What Is Data Analysis?
 2. Real Example Data Analyis With Python
@@ -16,11 +19,14 @@ I. Overveiw
 8. Python In Under 10 Minutes
 
 
+
+
 II. What Is Data Analysis?
 
 
 Data Analysis
     A process of inspecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusion and supporting decision-making.
+
 
 Why Python For Data Analysis:
     very simple and intuitive to learn.
@@ -35,7 +41,7 @@ When To Choose R:
     when dealong with advanced statistical methods.
     when extreme performance is needed.
 
-    
+   
 Data Analysis Process
     Data Extraction
         the process of retrieving raw data from diverse sources and converting it into a usuable format for analysis, storage, or integration (eg. SQL, scrapping, file formats, consulting APIs, buying data).
@@ -47,6 +53,49 @@ Data Analysis Process
         proces of collecting, cleaning, transforming, and interpreting data to uncove useful information, idetify patterns, and support decision-making (eg. exploration, building statistical models, visualization and representations, correlation v. causation analysis).
     Action
         fact or process of doing something, typically to achieve an aim (eg. building machine learning models, feature engineering, moving ML into production, building ETL pipelines, etc.
+
+
+Python Ecosystem:
+    pandas: the cornerstone of our data analysis job with python.
+    matplotlib: the foudnational library for visualizations. otherl ibraries we'll use will be built on tope of matplotlib.
+    numpy: the numeric library that serves as the foundation of all calculations in python.
+    seaborn: a statistical visualization tool built on top of matplotlib.
+    statsmodels: a library with many advanced statisical functions.
+    scipy: advanced scietific computing, including functions for optimization, linear algebra, image processing and much more.
+    scikit-learn: the most popular machine learning library for python (not deep learning).
+
+
+How Python Data Analysts Think:
+    utulizes the python programming language and its extensive libraries to perform vcarious data related tasks, including data mining, analysis, and visualization.
     
+
+Real Example Data Analyis With Python
+
+CSV: sales_data.csv
+
+import numpy as np
+import pnadas as gd
+import matplotlib.pyplot as plt
+
+%matplotlib inline
+
+
+data frame
+    (pandas) - two dimensional labeled data structure with columns of potentially different types. It is similar to a spreadsheet, a SQL table, or a dictionary of Series objects. Data frames are a fundamental tool in data science and analysis in Python due to their flexibility and intuitive way of organizing and manipulating data.
+
+
+We will be analyzing the Unit_Cost column:
+
+count: 113016.800000
+mean: 267.29366
+std:549.835483
+min: 1.80000
+25%: 2.00000
+50%: 9.00000
+75%: 42.00000
+max: 2171:00000
+Name: Unit_Cost
+dtype: float64
+
 
 
