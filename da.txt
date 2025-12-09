@@ -10,7 +10,7 @@ Reference: https://www.youtube.com/watch?v=r-uOLxNrNk8
 I. Overview
 
 1. What Is Data Analysis?
-2. Real Example Data Analyis With Python
+2. Real Example Data Analysis With Python
 3. How To Use Jupyter Notebooks
 4. Intro To NumPy
 5. Intro To Pandas
@@ -44,13 +44,13 @@ When To Choose R:
    
 Data Analysis Process
     Data Extraction
-        the process of retrieving raw data from diverse sources and converting it into a usuable format for analysis, storage, or integration (eg. SQL, scrapping, file formats, consulting APIs, buying data).
+        the process of retrieving raw data from diverse sources and converting it into a usable format for analysis, storage, or integration (eg. SQL, scrapping, file formats, consulting APIs, buying data).
     Data Cleansing
-        essential process of dinding and fixing inaccurate, incomplete, corrupted, or irrelevent datya in a dataset to improve its quality, consisgtency, and usability for abnalysis, business intelligence, and AI (Eg. missing values and empty data, data impotation, incorrect types).
+        essential process of finding and fixing inaccurate, incomplete, corrupted, or irrelevent data in a dataset to improve its quality, consisgtency, and usability for abnalysis, business intelligence, and AI (Eg. missing values and empty data, data impotation, incorrect types).
     Data Wrangling
-        the prcoess of cleaning, structuring, and teansforming raw data into a clean, high quality format that is ready for analysis and decision-making (eg. hierarchial data, handling categorical data, reshaping and transforming structured).
+        the prcoess of cleaning, structuring, and transforming raw data into a clean, high quality format that is ready for analysis and decision-making (eg. hierarchial data, handling categorical data, reshaping and transforming structured).
     Analysis
-        proces of collecting, cleaning, transforming, and interpreting data to uncove useful information, idetify patterns, and support decision-making (eg. exploration, building statistical models, visualization and representations, correlation v. causation analysis).
+        proces of collecting, cleaning, transforming, and interpreting data to uncover useful information, identify patterns, and support decision-making (eg. exploration, building statistical models, visualization and representations, correlation v. causation analysis).
     Action
         fact or process of doing something, typically to achieve an aim (eg. building machine learning models, feature engineering, moving ML into production, building ETL pipelines, etc.
 
@@ -74,7 +74,7 @@ Real Example Data Analyis With Python
 CSV: sales_data.csv
 
 import numpy as np
-import pnadas as gd
+import pandas as gd
 import matplotlib.pyplot as plt
 
 %matplotlib inline
