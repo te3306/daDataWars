@@ -57,7 +57,7 @@ Data Analysis Process
 
 Python Ecosystem:
     pandas: the cornerstone of our data analysis job with python.
-    matplotlib: the foudnational library for visualizations. other ibraries we'll use will be built on tope of matplotlib.
+    matplotlib: the foundational library for visualizations. other libraries we'll use will be built on tope of matplotlib.
     numpy: the numeric library that serves as the foundation of all calculations in python.
     seaborn: a statistical visualization tool built on top of matplotlib.
     statsmodels: a library with many advanced statisical functions.
