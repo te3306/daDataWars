@@ -44,11 +44,11 @@ When To Choose R:
    
 Data Analysis Process
     Data Extraction
-        the process of retrieving raw data from diverse sources and converting it into a usable format for analysis, storage, or integration (eg. SQL, scrapping, file formats, consulting APIs, buying data).
+        the process of retrieving raw data from diverse sources and converting it into a usable format for analysis, storage, or integration (eg. SQL, scrapping, file formats, consulting APIs,& buying data).
     Data Cleansing
-        essential process of finding and fixing inaccurate, incomplete, corrupted, or irrelevent data in a dataset to improve its quality, consistency, and usability for analysis, business intelligence, and AI (eg. missing values and empty data, data imputation, incorrect types).
+        essential process of finding and fixing inaccurate, incomplete, corrupted, or irrelevent data in a dataset to improve its quality, consistency, and usability for analysis, business intelligence, and AI (eg. missing values and empty data, data imputation, & incorrect types).
     Data Wrangling
-        the prcoess of cleaning, structuring, and transforming raw data into a clean, high quality format that is ready for analysis and decision-making (eg. hierarchial data, handling categorical data, reshaping and transforming structured).
+        the prcoess of cleaning, structuring, and transforming raw data into a clean, high quality format that is ready for analysis and decision-making (eg. hierarchial data, handling categorical data, reshaping & transforming structured data).
     Analysis
         proces of collecting, cleaning, transforming, and interpreting data to uncover useful information, identify patterns, and support decision-making (eg. exploration, building statistical models, visualization and representations, correlation v. causation analysis).
     Action
@@ -57,7 +57,7 @@ Data Analysis Process
 
 Python Ecosystem:
     pandas: the cornerstone of our data analysis job with python.
-    matplotlib: the foudnational library for visualizations. otherl ibraries we'll use will be built on tope of matplotlib.
+    matplotlib: the foudnational library for visualizations. other ibraries we'll use will be built on tope of matplotlib.
     numpy: the numeric library that serves as the foundation of all calculations in python.
     seaborn: a statistical visualization tool built on top of matplotlib.
     statsmodels: a library with many advanced statisical functions.
@@ -66,7 +66,7 @@ Python Ecosystem:
 
 
 How Python Data Analysts Think:
-    utulizes the python programming language and its extensive libraries to perform vcarious data related tasks, including data mining, analysis, and visualization.
+    utulizes the python programming language and its extensive libraries to perform various data related tasks, including data mining, analysis, and visualization.
     
 
 Real Example Data Analyis With Python
