@@ -46,7 +46,7 @@ Data Analysis Process
     Data Extraction
         the process of retrieving raw data from diverse sources and converting it into a usable format for analysis, storage, or integration (eg. SQL, scrapping, file formats, consulting APIs, buying data).
     Data Cleansing
-        essential process of finding and fixing inaccurate, incomplete, corrupted, or irrelevent data in a dataset to improve its quality, consisgtency, and usability for abnalysis, business intelligence, and AI (Eg. missing values and empty data, data impotation, incorrect types).
+        essential process of finding and fixing inaccurate, incomplete, corrupted, or irrelevent data in a dataset to improve its quality, consistency, and usability for analysis, business intelligence, and AI (eg. missing values and empty data, data imputation, incorrect types).
     Data Wrangling
         the prcoess of cleaning, structuring, and transforming raw data into a clean, high quality format that is ready for analysis and decision-making (eg. hierarchial data, handling categorical data, reshaping and transforming structured).
     Analysis
