@@ -1,8 +1,10 @@
 FCC - Data Analysis
 
+
 Reference: https://www.youtube.com/watch?v=r-uOLxNrNk8
 
-18:16
+
+52:50
 
 
 
@@ -44,29 +46,29 @@ When To Choose R:
    
 Data Analysis Process
     Data Extraction
-        the process of retrieving raw data from diverse sources and converting it into a usable format for analysis, storage, or integration (eg. SQL, scrapping, file formats, consulting APIs,& buying data).
+        the process of retrieving raw data from diverse sources and converting it into a usable format for analysis, storage, or integration (eg. SQL, scrapping, file formats, consulting APIs, & buying data).
     Data Cleansing
         essential process of finding and fixing inaccurate, incomplete, corrupted, or irrelevent data in a dataset to improve its quality, consistency, and usability for analysis, business intelligence, and AI (eg. missing values and empty data, data imputation, & incorrect types).
     Data Wrangling
-        the prcoess of cleaning, structuring, and transforming raw data into a clean, high quality format that is ready for analysis and decision-making (eg. hierarchial data, handling categorical data, reshaping & transforming structured data).
+        the process of cleaning, structuring, and transforming raw data into a clean, high quality format that is ready for analysis and decision-making (eg. hierarchial data, handling categorical data, reshaping & transforming structured data).
     Analysis
         proces of collecting, cleaning, transforming, and interpreting data to uncover useful information, identify patterns, and support decision-making (eg. exploration, building statistical models, visualization and representations, correlation v. causation analysis).
     Action
-        fact or process of doing something, typically to achieve an aim (eg. building machine learning models, feature engineering, moving ML into production, building ETL pipelines, etc.
+        fact or process of doing something, typically to achieve an aim (eg. building machine learning models, feature engineering, moving ML into production, building ETL pipelines, etc).
 
 
 Python Ecosystem:
-    pandas: the cornerstone of our data analysis job with python.
-    matplotlib: the foundational library for visualizations. other libraries we'll use will be built on tope of matplotlib.
-    numpy: the numeric library that serves as the foundation of all calculations in python.
+    pandas: the cornerstone of our data analysis job with pPython.
+    matplotlib: the foundational library for visualizations. Other libraries we'll use will be built on top of matplotlib.
+    numpy: the numeric library that serves as the foundation of all calculations in Python.
     seaborn: a statistical visualization tool built on top of matplotlib.
     statsmodels: a library with many advanced statisical functions.
-    scipy: advanced scietific computing, including functions for optimization, linear algebra, image processing and much more.
-    scikit-learn: the most popular machine learning library for python (not deep learning).
+    scipy: advanced scientific computing, including functions for optimization, linear algebra, image processing & much more.
+    scikit-learn: the most popular machine learning library for Python (!= deep learning).
 
 
 How Python Data Analysts Think:
-    utulizes the python programming language and its extensive libraries to perform various data related tasks, including data mining, analysis, and visualization.
+    utulizes the Python programming language and its extensive libraries to perform various data related tasks, including data mining, analysis, & visualization.
     
 
 Real Example Data Analyis With Python
@@ -81,10 +83,11 @@ import matplotlib.pyplot as plt
 
 
 data frame
-    (pandas) - two dimensional labeled data structure with columns of potentially different types. It is similar to a spreadsheet, a SQL table, or a dictionary of Series objects. Data frames are a fundamental tool in data science and analysis in Python due to their flexibility and intuitive way of organizing and manipulating data.
+    (pandas) - two dimensional labeled data structure with columns of potentially different types. It is similar to a spreadsheet, a SQL table, or a dictionary of Series objects. Data frames are a fundamental tool in Data Science and analysis in Python due to their flexibility and intuitive way of organizing and manipulating data.
 
 
-We will be analyzing the Unit_Cost column:
+Example:
+Unit_Cost column:
 
 count: 113016.800000
 mean: 267.29366
@@ -105,7 +108,7 @@ III. How To Use Jupyter Notebooks
 Reference: https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb
 
 Jupyter Notebook
-    is a language agnostic HTML notebook application for Project Jupyter. It allows data scientists to create and share documents that include live code, equations, and other multimedia resources.
+    is a language agnostic HTML notebook application for Project Jupyter. It allows data scientists to create and share documents that include live code, equations, & other multimedia resources.
 
 Keyboard Shortcuts:
     Command Mode: key operating state that allows users to naviagte and manipulate cells at a notebook level using single key shortcuts.
