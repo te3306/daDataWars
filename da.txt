@@ -99,3 +99,22 @@ dtype: float64
 
 
 
+
+III. How To Use Jupyter Notebooks
+
+Reference: https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb
+
+Jupyter Notebook
+    is a language agnostic HTML notebook application for Project Jupyter. It allows data scientists to create and share documents that include live code, equations, and other multimedia resources.
+
+Keyboard Shortcuts:
+    Command Mode: key operating state that allows users to naviagte and manipulate cells at a notebook level using single key shortcuts.
+    Editor Mode: allows you to type and modify the content within a cell, functioning like a standard text editor.
+    Markdown Mode: "m" key - switch to markdown.
+    Python Mode: "y" - switch to Python mode.
+    Run Code: Ctrl + Enter / Shift + Return.
+    Delete Cell: "d" key (2 times).
+    Undo Delete: "z" key.
+
+
+
