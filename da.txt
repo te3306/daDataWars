@@ -105,19 +105,30 @@ dtype: float64
 
 III. How To Use Jupyter Notebooks
 
-Reference: https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb
-
 Jupyter Notebook
     is a language agnostic HTML notebook application for Project Jupyter. It allows data scientists to create and share documents that include live code, equations, & other multimedia resources.
 
-Keyboard Shortcuts:
-    Command Mode: key operating state that allows users to naviagte and manipulate cells at a notebook level using single key shortcuts.
-    Editor Mode: allows you to type and modify the content within a cell, functioning like a standard text editor.
-    Markdown Mode: "m" key - switch to markdown.
-    Python Mode: "y" - switch to Python mode.
-    Run Code: Ctrl + Enter / Shift + Return.
-    Delete Cell: "d" key (2 times).
-    Undo Delete: "z" key.
+
+Jupyter Notebook Keyboard Shortcuts:
+    Reference: https://towardsdatascience.com/jypyter-notebook-shortcuts-bf0101a98330/
+        Command Mode: key operating state that allows users to naviagte and manipulate cells at a notebook level using single key shortcuts.
+        Editor Mode: allows you to type and modify the content within a cell, functioning like a standard text editor.
+        Markdown Mode: "m" key - switch to markdown.
+        Python Mode: "y" - switch to Python mode.
+        Run Code: Ctrl + Enter / Shift + Return.
+        Delete Cell: "d" key (2 times).
+        Undo Delete: "z" key.
+        Cut / Copy / Paste: "x" "c" and "v" key.
+    
+
+Retrieve Data From API:
+    Jupyter Tutorial: https://colab.research.google.com/github/rmotr-curriculum/ds-content-interactive-jupyterlab-tutorial/blob/master/Tutorial.ipynb
+    Market Data Rest API: https://www.marketdata.app/docs/api/
+    Bokeh Documentation: https://docs.bokeh.org/en/2.4.1/docs/user_guide/jupyter.html
+
+
+
+
 
 
 
