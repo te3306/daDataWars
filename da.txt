@@ -129,6 +129,33 @@ Retrieve Data From API:
 
 
 
+IV. Intro to NumPy
+
+Reference: https://github.com/rmotr-curriculum/freecodecamp-intro-to-numpy/blob/master/2.%20NumPy.ipynb
+
+NumPy
+   In Python, everything is an object, which means that even simple ints are also objects, with all the required machinery to make object work. We call them "Boxed Ints". In contrast, NumPy uses primitve numeric types (floats, ints) which makes storing and computation efficient.
+
+
+# Hands On!
+
+import sys
+import numpy as np
+
+
+# Basic Numpy Arrays
+
+# In [2]:
+
+np.array({1, 2, 3, 4])  
+
+# Output: [2] / 
+# Array: ([1, 2, 3, 4])
+
+# In [3]:
+a = np.array([1, 2, 3, 4])
+
+
 
 
 
